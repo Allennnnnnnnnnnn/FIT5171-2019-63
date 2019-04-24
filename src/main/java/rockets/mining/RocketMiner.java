@@ -18,7 +18,7 @@ public class RocketMiner {
 
     private DAO dao;
 
-    //success
+    //successfully
     public RocketMiner(DAO dao) {
         this.dao = dao;
     }
